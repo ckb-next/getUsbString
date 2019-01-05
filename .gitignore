@@ -1,0 +1,5 @@
+*.pro.user
+getUsbString
+.qmake.stash
+Makefile
+*.o
